@@ -6,9 +6,9 @@
 ### This project practices the .reduce method. Asks you to add up the total length of video times that stored as strings. Asks you to find the total full hours, minutes, and seconds. 
 
 #### Keywords: 
-  *parseFloat 
-  *dataset / data-time
-  *.split
-  *.reduce
-  *Math.floor, 
-  *% modulo, mod, remainder
+* parseFloat 
+* dataset / data-time
+* .split
+* .reduce
+* Math.floor, 
+* % modulo, mod, remainder
